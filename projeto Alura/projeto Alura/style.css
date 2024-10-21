@@ -1,0 +1,28 @@
+body{
+color: white;
+background-color: chocolate;
+margin: 16px;
+    font-family: "Playwrite GB S", cursive;
+}
+
+header{
+    border-bottom: solid 3px rgb(219, 160, 118) ;
+    padding: 20px;
+    font-size: 30px;
+    collor: rgb(219, 160, 118);
+}
+
+section{
+    
+}
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 15px;
+}
+
+h2{ 
+    font-size: 30px;
+}
